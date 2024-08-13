@@ -1,1 +1,0 @@
-# redis-helm-chart
